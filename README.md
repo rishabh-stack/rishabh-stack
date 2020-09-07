@@ -29,7 +29,7 @@ I'm a Developer and an enthusiastic Techie.
 
 ## **My GitHub Stats**
 
-<img align="left" alt="Rishabh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishabh-stack &show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Rishabh's Github Stats" src="https://github-readme-stats.vercel.app/api?username='rishabh-stack&show_icons=true&hide_border=true&theme=radical" />
 
 ### Connect with Me
 [<img align="left" alt="Rishabh" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rishabh-stack.github.io) [<img align="left" alt="Twitter - Rishabh Sharma" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/Rishabh14849692) [<img align="left" alt="Instagram - Rishabh Sharma" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/rishabh.sharma5/) [<img align="left" alt="Facebook - Rishabh Sharma" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/facebook.svg" />](https://www.facebook.com/rishabh.tenguria.7/)[<img align="left" alt="LinkedIn - Rishabh sharma" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/rishabh-sharma-40a7951b1/) [<img align="left" alt="Email -Rishabh Sharma" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:rishabhsharma952000@gmail.com)

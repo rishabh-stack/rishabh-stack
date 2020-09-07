@@ -26,11 +26,7 @@ I'm a Developer and an enthusiastic Techie.
 <img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroomcc.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg"/>
  |--|--|--|
 
-**Video & Sound Editing**
 
-<img alt="Adobe Premiere Pro" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobepremierepro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeaftereffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeaudition.svg"/>|<img alt="Audacity" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/audacity.svg"/>
-|--|--|--|--|
----
 ## **My GitHub Stats**
 
 <img align="left" alt="Rishabh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishabh-stack &show_icons=true&hide_border=true&theme=radical" />
